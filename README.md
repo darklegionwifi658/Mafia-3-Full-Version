@@ -242,4 +242,4 @@ This repository serves as the official landing page for Mafia 3. The software is
 **Get the most recent version of Mafia 3 today!**
 
 ---
-**Last updated:** 2026-09-17 17:52:09 UTC
+**Last updated:** 2026-09-17 20:44:07 UTC
